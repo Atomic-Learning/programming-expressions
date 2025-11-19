@@ -1,21 +1,17 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Programming: Expressions",
+    "slug": "programming-expressions",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "programming",
+        "pseudocode"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "atomic-learning-pseudocode"
     ],
     "related": [
-        "",
-        ""
     ]
 }
